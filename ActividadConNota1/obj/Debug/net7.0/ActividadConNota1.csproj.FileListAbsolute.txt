@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\Programación\ActividadConNota1\bin\Debug\net7.0\ActividadConNota1.exe
+C:\Users\Carlos\Desktop\Programación\ActividadConNota1\bin\Debug\net7.0\ActividadConNota1.deps.json
+C:\Users\Carlos\Desktop\Programación\ActividadConNota1\bin\Debug\net7.0\ActividadConNota1.runtimeconfig.json
+C:\Users\Carlos\Desktop\Programación\ActividadConNota1\bin\Debug\net7.0\ActividadConNota1.dll
+C:\Users\Carlos\Desktop\Programación\ActividadConNota1\bin\Debug\net7.0\ActividadConNota1.pdb
+C:\Users\Carlos\Desktop\Programación\ActividadConNota1\obj\Debug\net7.0\ActividadConNota1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Programación\ActividadConNota1\obj\Debug\net7.0\ActividadConNota1.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Programación\ActividadConNota1\obj\Debug\net7.0\ActividadConNota1.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Programación\ActividadConNota1\obj\Debug\net7.0\ActividadConNota1.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Programación\ActividadConNota1\obj\Debug\net7.0\ActividadConNota1.dll
+C:\Users\Carlos\Desktop\Programación\ActividadConNota1\obj\Debug\net7.0\refint\ActividadConNota1.dll
+C:\Users\Carlos\Desktop\Programación\ActividadConNota1\obj\Debug\net7.0\ActividadConNota1.pdb
+C:\Users\Carlos\Desktop\Programación\ActividadConNota1\obj\Debug\net7.0\ActividadConNota1.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Programación\ActividadConNota1\obj\Debug\net7.0\ref\ActividadConNota1.dll
